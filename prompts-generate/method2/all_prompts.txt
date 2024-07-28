@@ -1,0 +1,96 @@
+What category best fits this news article?
+How would you describe the main topic of this news?
+In which section of the newspaper would this news likely be found?
+What is the primary focus of this news article?
+Which category does this news article fall under?
+In which category does this news article belong?
+Which category is most appropriate for this news article?
+Under which category does this news article best fit?
+Which category is the best match for this news article?
+Into which category does this news article best fit?
+Which category is most suitable for this news article?
+How would you define the primary subject of this news?
+How would you summarize the central theme of this news?
+What would you say is the primary focus of this news?
+How would you explain the main subject of this news?
+How would you characterize the main topic of this news?
+What is your description of the main topic of this news?
+How would you articulate the primary subject of this news?
+Which section of the newspaper is most likely to feature this news?
+In what section of the newspaper is this news most likely to appear?
+Which section of the newspaper is this news most likely to be found in?
+Which part of the newspaper would most likely feature this news?
+Which section of the newspaper is most likely to contain this news?
+In what section of the newspaper is this news most likely to be found?
+Where in the newspaper is this news most likely to be located?
+What is the main emphasis of this news article?
+What is the central focus of this news article?
+What is the main point of this news article?
+What is the main subject of this news article?
+What is the main focus of this news article?
+What is the key focus of this news article?
+What is the main topic of this news article?
+What category best fits this news article: business, entertainment, politics, sport or tech?
+How would you describe the main topic of this news: business, entertainment, politics, sport or tech?
+In which section of the newspaper would this news likely be found: business, entertainment, politics, sport or tech?
+What is the primary focus of this news article: business, entertainment, politics, sport or tech?
+Which category does this news article fall under: business, entertainment, politics, sport or tech?
+In which category does this news article belong: business, entertainment, politics, sport or tech?
+Which category is most appropriate for this news article: business, entertainment, politics, sport or tech?
+Under which category does this news article best fit: business, entertainment, politics, sport or tech?
+Which category is the best match for this news article: business, entertainment, politics, sport or tech?
+Into which category does this news article best fit: business, entertainment, politics, sport or tech?
+Which category is most suitable for this news article: business, entertainment, politics, sport or tech?
+How would you define the primary subject of this news: business, entertainment, politics, sport or tech?
+How would you summarize the central theme of this news: business, entertainment, politics, sport or tech?
+What would you say is the primary focus of this news: business, entertainment, politics, sport or tech?
+How would you explain the main subject of this news: business, entertainment, politics, sport or tech?
+How would you characterize the main topic of this news: business, entertainment, politics, sport or tech?
+What is your description of the main topic of this news: business, entertainment, politics, sport or tech?
+How would you articulate the primary subject of this news: business, entertainment, politics, sport or tech?
+Which section of the newspaper is most likely to feature this news: business, entertainment, politics, sport or tech?
+In what section of the newspaper is this news most likely to appear: business, entertainment, politics, sport or tech?
+Which section of the newspaper is this news most likely to be found in: business, entertainment, politics, sport or tech?
+Which part of the newspaper would most likely feature this news: business, entertainment, politics, sport or tech?
+Which section of the newspaper is most likely to contain this news: business, entertainment, politics, sport or tech?
+In what section of the newspaper is this news most likely to be found: business, entertainment, politics, sport or tech?
+Where in the newspaper is this news most likely to be located: business, entertainment, politics, sport or tech?
+What is the main emphasis of this news article: business, entertainment, politics, sport or tech?
+What is the central focus of this news article: business, entertainment, politics, sport or tech?
+What is the main point of this news article: business, entertainment, politics, sport or tech?
+What is the main subject of this news article: business, entertainment, politics, sport or tech?
+What is the main focus of this news article: business, entertainment, politics, sport or tech?
+What is the key focus of this news article: business, entertainment, politics, sport or tech?
+What is the main topic of this news article: business, entertainment, politics, sport or tech?
+What category best fits this news article: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+How would you describe the main topic of this news: business, entertainment, politics, sport or tech? Example: 'markets signal brazilian recovery the brazilian stock market has risen to a record high as investors display growing confidence in the durability of the country s economic recovery' is business.
+In which section of the newspaper would this news likely be found: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+What is the primary focus of this news article: business, entertainment, politics, sport or tech? Example: 'markets signal brazilian recovery the brazilian stock market has risen to a record high as investors display growing confidence in the durability of the country s economic recovery' is business.
+Which category does this news article fall under: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+In which category does this news article belong: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+Which category is most appropriate for this news article: business, entertainment, politics, sport or tech? Example: 'tough rules for ringtone sellers firms that flout rules on how ringtones and other mobile extras are sold could be cut off from all uk phone networks' is tech.
+Under which category does this news article best fit: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+Which category is the best match for this news article: business, entertainment, politics, sport or tech? Example: 'tough rules for ringtone sellers firms that flout rules on how ringtones and other mobile extras are sold could be cut off from all uk phone networks' is tech.
+Into which category does this news article best fit: business, entertainment, politics, sport or tech? Example: 'rock band u2 break ticket record u2 have smashed irish box office records with ticket sales for their dublin concerts after more than 150 000 were sold within 50 minutes' is entertainment.
+Which category is most suitable for this news article: business, entertainment, politics, sport or tech? Example: 'markets signal brazilian recovery the brazilian stock market has risen to a record high as investors display growing confidence in the durability of the country s economic recovery' is business.
+How would you define the primary subject of this news: business, entertainment, politics, sport or tech? Example: 'iraq advice claim sparks new row the tories say ministers must respond in parliament to claims that the legal advice used to justify the iraq war was drawn up at number 10' is politics.
+How would you summarize the central theme of this news: business, entertainment, politics, sport or tech? Example: 'rock band u2 break ticket record u2 have smashed irish box office records with ticket sales for their dublin concerts after more than 150 000 were sold within 50 minutes' is entertainment.
+What would you say is the primary focus of this news: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+How would you explain the main subject of this news: business, entertainment, politics, sport or tech? Example: 'iraq advice claim sparks new row the tories say ministers must respond in parliament to claims that the legal advice used to justify the iraq war was drawn up at number 10' is politics.
+How would you characterize the main topic of this news: business, entertainment, politics, sport or tech? Example: 'tough rules for ringtone sellers firms that flout rules on how ringtones and other mobile extras are sold could be cut off from all uk phone networks' is tech.
+What is your description of the main topic of this news: business, entertainment, politics, sport or tech? Example: 'rock band u2 break ticket record u2 have smashed irish box office records with ticket sales for their dublin concerts after more than 150 000 were sold within 50 minutes' is entertainment.
+How would you articulate the primary subject of this news: business, entertainment, politics, sport or tech? Example: 'iraq advice claim sparks new row the tories say ministers must respond in parliament to claims that the legal advice used to justify the iraq war was drawn up at number 10' is politics.
+Which section of the newspaper is most likely to feature this news: business, entertainment, politics, sport or tech? Example: 'tough rules for ringtone sellers firms that flout rules on how ringtones and other mobile extras are sold could be cut off from all uk phone networks' is tech.
+In what section of the newspaper is this news most likely to appear: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+Which section of the newspaper is this news most likely to be found in: business, entertainment, politics, sport or tech? Example: 'iraq advice claim sparks new row the tories say ministers must respond in parliament to claims that the legal advice used to justify the iraq war was drawn up at number 10' is politics.
+Which part of the newspaper would most likely feature this news: business, entertainment, politics, sport or tech? Example: 'tough rules for ringtone sellers firms that flout rules on how ringtones and other mobile extras are sold could be cut off from all uk phone networks' is tech.
+Which section of the newspaper is most likely to contain this news: business, entertainment, politics, sport or tech? Example: 'markets signal brazilian recovery the brazilian stock market has risen to a record high as investors display growing confidence in the durability of the country s economic recovery' is business.
+In what section of the newspaper is this news most likely to be found: business, entertainment, politics, sport or tech? Example: 'iraq advice claim sparks new row the tories say ministers must respond in parliament to claims that the legal advice used to justify the iraq war was drawn up at number 10' is politics.
+Where in the newspaper is this news most likely to be located: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+What is the main emphasis of this news article: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+What is the central focus of this news article: business, entertainment, politics, sport or tech? Example: 'rock band u2 break ticket record u2 have smashed irish box office records with ticket sales for their dublin concerts after more than 150 000 were sold within 50 minutes' is entertainment.
+What is the main point of this news article: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+What is the main subject of this news article: business, entertainment, politics, sport or tech? Example: 'iraq advice claim sparks new row the tories say ministers must respond in parliament to claims that the legal advice used to justify the iraq war was drawn up at number 10' is politics.
+What is the main focus of this news article: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.
+What is the key focus of this news article: business, entertainment, politics, sport or tech? Example: 'iraq advice claim sparks new row the tories say ministers must respond in parliament to claims that the legal advice used to justify the iraq war was drawn up at number 10' is politics.
+What is the main topic of this news article: business, entertainment, politics, sport or tech? Example: 'wales want rugby league training wales could follow england s lead by training with a rugby league club' is sport.

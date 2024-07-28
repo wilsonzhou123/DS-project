@@ -1,0 +1,7 @@
+Write a paraphrase for the following sentence: <seed-prompt> Paraphrase:
+<seed-prompt> Paraphrase:
+Write a likely paraphrase of the text: <seed-prompt> Paraphrase:
+Write a similar sentence similar to the following one: <seed-prompt> Paraphrase:
+Paraphrase the following sentence: <seed-prompt> Paraphrase:
+Write a variation of this sentence: <seed-prompt>
+How would you say the following sentence in a different way? <seed-prompt>
