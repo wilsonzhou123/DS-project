@@ -49,7 +49,6 @@ def main():
         all_prompts = list(set(all_prompts))  
         print(f"Total prompts: {len(all_prompts)}")
     
-    
     write_lines_to_file('expanded_prompts.txt', all_prompts)
     print("Finished writing to file.")
 

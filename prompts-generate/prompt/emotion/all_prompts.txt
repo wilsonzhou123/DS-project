@@ -1,0 +1,96 @@
+What is the emotion expressed in this message?
+What emotion does this message express?
+How will you feel about the message?
+What emotion does the writer express for the message?
+How is the emotion conveyed in this message?
+What feeling is communicated in this message?
+How would you describe the emotion shown in this message?
+What sentiment is conveyed in this message?
+How is the feeling expressed in this message?
+How is the emotion portrayed in this message?
+In what way is the emotion shown in this message?
+What feeling is expressed in this message?
+What feeling does this message convey?
+How does this message express emotion?
+How would you describe the emotion in this message?
+What emotion is conveyed in this message?
+What feeling does this message communicate?
+What sentiment is expressed in this message?
+How would you describe your reaction to the message?
+What is your emotional response to the message?
+How might you react emotionally to the message?
+What would your feelings be towards the message?
+How do you think you will feel about the message?
+What is your anticipated reaction to the message?
+How do you feel when you read the message?
+What feeling does the writer convey in the message?
+What sentiment does the writer express in the message?
+How does the writer express emotion in the message?
+What emotion does the author convey in the message?
+How would you describe the writer's feeling in the message?
+What emotion is the writer showing in the message?
+What sentiment does the author communicate in the message?
+What is the emotion expressed in this message: joy, sadness, anger, fear，love or surprise?
+What emotion does this message express: joy, sadness, anger, fear，love or surprise?
+How will you feel about the message: joy, sadness, anger, fear，love or surprise?
+What emotion does the writer express for the message: joy, sadness, anger, fear，love or surprise?
+How is the emotion conveyed in this message: joy, sadness, anger, fear，love or surprise?
+What feeling is communicated in this message: joy, sadness, anger, fear，love or surprise?
+How would you describe the emotion shown in this message: joy, sadness, anger, fear，love or surprise?
+What sentiment is conveyed in this message: joy, sadness, anger, fear，love or surprise?
+How is the feeling expressed in this message: joy, sadness, anger, fear，love or surprise?
+How is the emotion portrayed in this message: joy, sadness, anger, fear，love or surprise?
+In what way is the emotion shown in this message: joy, sadness, anger, fear，love or surprise?
+What feeling is expressed in this message: joy, sadness, anger, fear，love or surprise?
+What feeling does this message convey: joy, sadness, anger, fear，love or surprise?
+How does this message express emotion: joy, sadness, anger, fear，love or surprise?
+How would you describe the emotion in this message: joy, sadness, anger, fear，love or surprise?
+What emotion is conveyed in this message: joy, sadness, anger, fear，love or surprise?
+What feeling does this message communicate: joy, sadness, anger, fear，love or surprise?
+What sentiment is expressed in this message: joy, sadness, anger, fear，love or surprise?
+How would you describe your reaction to the message: joy, sadness, anger, fear，love or surprise?
+What is your emotional response to the message: joy, sadness, anger, fear，love or surprise?
+How might you react emotionally to the message: joy, sadness, anger, fear，love or surprise?
+What would your feelings be towards the message: joy, sadness, anger, fear，love or surprise?
+How do you think you will feel about the message: joy, sadness, anger, fear，love or surprise?
+What is your anticipated reaction to the message: joy, sadness, anger, fear，love or surprise?
+How do you feel when you read the message: joy, sadness, anger, fear，love or surprise?
+What feeling does the writer convey in the message: joy, sadness, anger, fear，love or surprise?
+What sentiment does the writer express in the message: joy, sadness, anger, fear，love or surprise?
+How does the writer express emotion in the message: joy, sadness, anger, fear，love or surprise?
+What emotion does the author convey in the message: joy, sadness, anger, fear，love or surprise?
+How would you describe the writer's feeling in the message: joy, sadness, anger, fear，love or surprise?
+What emotion is the writer showing in the message: joy, sadness, anger, fear，love or surprise?
+What sentiment does the author communicate in the message: joy, sadness, anger, fear，love or surprise?
+What is the emotion expressed in this message: joy, sadness, anger, fear，love or surprise? Example: 'i am ever feeling nostalgic about the fireplace i will know that it is still on the property' is love.
+What emotion does this message express: joy, sadness, anger, fear，love or surprise? Example: 'i have been with petronas for years i feel that petronas has performed well and made a huge profit' is joy.
+How will you feel about the message: joy, sadness, anger, fear，love or surprise? Example: 'ive been taking or milligrams or times recommended amount and ive fallen asleep a lot faster but i also feel like so funny' is surprise.
+What emotion does the writer express for the message: joy, sadness, anger, fear，love or surprise? Example: 'i am ever feeling nostalgic about the fireplace i will know that it is still on the property' is love.
+How is the emotion conveyed in this message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+What feeling is communicated in this message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+How would you describe the emotion shown in this message: joy, sadness, anger, fear，love or surprise? Example: 'i am ever feeling nostalgic about the fireplace i will know that it is still on the property' is love.
+What sentiment is conveyed in this message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+How is the feeling expressed in this message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+How is the emotion portrayed in this message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+In what way is the emotion shown in this message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+What feeling is expressed in this message: joy, sadness, anger, fear，love or surprise? Example: 'i feel as confused about life as a teenager or as jaded as a year old man' is fear.
+What feeling does this message convey: joy, sadness, anger, fear，love or surprise? Example: 'i feel as confused about life as a teenager or as jaded as a year old man' is fear.
+How does this message express emotion: joy, sadness, anger, fear，love or surprise? Example: 'i have been with petronas for years i feel that petronas has performed well and made a huge profit' is joy.
+How would you describe the emotion in this message: joy, sadness, anger, fear，love or surprise? Example: 'im grabbing a minute to post i feel greedy wrong' is anger.
+What emotion is conveyed in this message: joy, sadness, anger, fear，love or surprise? Example: 'ive been taking or milligrams or times recommended amount and ive fallen asleep a lot faster but i also feel like so funny' is surprise.
+What feeling does this message communicate: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+What sentiment is expressed in this message: joy, sadness, anger, fear，love or surprise? Example: 'i have been with petronas for years i feel that petronas has performed well and made a huge profit' is joy.
+How would you describe your reaction to the message: joy, sadness, anger, fear，love or surprise? Example: 'i have been with petronas for years i feel that petronas has performed well and made a huge profit' is joy.
+What is your emotional response to the message: joy, sadness, anger, fear，love or surprise? Example: 'i am ever feeling nostalgic about the fireplace i will know that it is still on the property' is love.
+How might you react emotionally to the message: joy, sadness, anger, fear，love or surprise? Example: 'i have been with petronas for years i feel that petronas has performed well and made a huge profit' is joy.
+What would your feelings be towards the message: joy, sadness, anger, fear，love or surprise? Example: 'i am ever feeling nostalgic about the fireplace i will know that it is still on the property' is love.
+How do you think you will feel about the message: joy, sadness, anger, fear，love or surprise? Example: 'ive been taking or milligrams or times recommended amount and ive fallen asleep a lot faster but i also feel like so funny' is surprise.
+What is your anticipated reaction to the message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+How do you feel when you read the message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+What feeling does the writer convey in the message: joy, sadness, anger, fear，love or surprise? Example: 'im grabbing a minute to post i feel greedy wrong' is anger.
+What sentiment does the writer express in the message: joy, sadness, anger, fear，love or surprise? Example: 'i feel as confused about life as a teenager or as jaded as a year old man' is fear.
+How does the writer express emotion in the message: joy, sadness, anger, fear，love or surprise? Example: 'i have been with petronas for years i feel that petronas has performed well and made a huge profit' is joy.
+What emotion does the author convey in the message: joy, sadness, anger, fear，love or surprise? Example: 'i have been with petronas for years i feel that petronas has performed well and made a huge profit' is joy.
+How would you describe the writer's feeling in the message: joy, sadness, anger, fear，love or surprise? Example: 'i didnt feel humiliated' is sadness.
+What emotion is the writer showing in the message: joy, sadness, anger, fear，love or surprise? Example: 'i feel as confused about life as a teenager or as jaded as a year old man' is fear.
+What sentiment does the author communicate in the message: joy, sadness, anger, fear，love or surprise? Example: 'i feel as confused about life as a teenager or as jaded as a year old man' is fear.
